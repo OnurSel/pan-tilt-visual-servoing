@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+figures/out/
+veri_takip/
+hedef_log_*.csv

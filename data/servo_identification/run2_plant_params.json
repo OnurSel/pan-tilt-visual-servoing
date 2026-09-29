@@ -1,0 +1,17 @@
+{
+  "px_per_deg_measured": 12.476656959813615,
+  "px_per_deg_nominal": 10.67,
+  "deadband_thr_px": 0.4447800000000379,
+  "deadband_n_jumps": 27,
+  "deadband_jump_px": 11.700000000000017,
+  "deadband_deg": 0.09999999999999432,
+  "deadband_note": "UPPER BOUND: deadband is below the staircase increment, re-run with a finer --inc",
+  "backlash_deg": 2.620894371410888,
+  "backlash_px": 32.69999999999999,
+  "lash_deg_deadband_corrected": 2.520894371410894,
+  "tau_s": 0.028994728411090895,
+  "dead_time_s": 0.11,
+  "t63_from_command_s": 0.13375,
+  "t90_s": 0.16094999999999998,
+  "n_step_trials": 30
+}
